@@ -14,7 +14,7 @@ This repository contains my daily progress in learning Cyber Security and Ethica
 ![ipconfig](ipconfig.png)
 
 ### ipconfig all
-![ipconfig all](ipconfig all.png)
+![ipconfig all](ipconfig-all.png)
 
 ### ping command
 ![ping](ping.png)
