@@ -8,6 +8,16 @@ This repository contains my daily progress in learning Cyber Security and Ethica
 
 * Learned Cyber Security basics
 * Practiced commands: ipconfig, ping
+  ## Day 1 Screenshots
+
+### ipconfig command
+![ipconfig](ipconfig.png)
+
+### ipconfig all
+![ipconfig all](ipconfig all.png)
+
+### ping command
+![ping](ping.png)
 
 ## Day 2
 
