@@ -1,6 +1,8 @@
 # Cyber Security Journey – Ghulam Fatima
 
-This repository contains my daily progress in learning Cyber Security.
+This repository contains my daily progress in learning Cyber Security and Ethical Hacking.
+
+---
 
 ## Day 1
 
