@@ -11,13 +11,29 @@ This repository contains my daily progress in learning Cyber Security and Ethica
   ## Day 1 Screenshots
 
 ### ipconfig command
-![ipconfig](ipconfig.png)
-
 ### ipconfig all
-![ipconfig all](ipconfig-all.png)
+Command: ipconfig
 
+Observation:
+- IPv4 address assigned
+- Default gateway present
+
+Explanation:
+System automatically assigns a private IP for communication within local network.
 ### ping command
-![ping](ping.png)
+Command: ping google.com
+
+Observation:
+- Replies received from server
+- IP address resolved (e.g. 142.x.x.x)
+- Time (ms) shown for each reply
+- No packet loss (if working properly)
+
+Explanation:
+Ping command network connectivity check karta hai.
+Yeh ICMP protocol use karta hai to send echo requests and receive replies.
+Agar replies mil rahi hain to iska matlab system successfully server se communicate kar raha hai.
+Time (ms) latency show karta hai (kitni der me response aya).
 
 ## Day 2
 
