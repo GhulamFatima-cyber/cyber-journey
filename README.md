@@ -47,3 +47,19 @@ Time (ms) latency show karta hai (kitni der me response aya).
 * Studied IP (Internet Protocol)
 * Understood DNS (Domain Name System)
 * Learned HTTP & HTTPS difference
+  
+## Day 4
+
+* Learned OSI Model and its 7 layers
+* Studied functions of each layer (Application → Physical)
+* Understood Transport protocols (TCP - reliable, UDP - fast)
+* Learned Network layer concepts (IP addressing, routing)
+* Studied Data Link (MAC, error detection) and Physical layer (hardware)
+* Understood ports and their importance in networking
+* Learned common ports:
+  - 80 (HTTP), 443 (HTTPS)
+  - 21 (FTP), 22 (SSH)
+  - 25 (SMTP), 53 (DNS)
+* Practiced:
+  - netstat -an (view active ports)
+  - ping google.com (check connectivity)
